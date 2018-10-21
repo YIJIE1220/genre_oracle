@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3633bb22-29a4-45ce-a44c-d4fd980cca01" name="Default Changelist" comment="stopwrods done" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_fuzzy_test_test_fuzzy_yijie.coverage" NAME="pytest for fuzzy_test.test_fuzzy_yijie Coverage Results" MODIFIED="1539289100992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1539479940929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1539572852531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$test.coverage" NAME="test Coverage Results" MODIFIED="1540007397176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project 1" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$7_12.coverage" NAME="7.12 Coverage Results" MODIFIED="1539623436703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_spotify_test_test_clean_spotify.coverage" NAME="pytest for spotify_test.test_clean_spotify Coverage Results" MODIFIED="1539285832417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_2_py.coverage" NAME="pytest in 6.2.py Coverage Results" MODIFIED="1538421026325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_1_py.coverage" NAME="pytest in 6.1.py Coverage Results" MODIFIED="1538426765397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$6_1_py.coverage" NAME="6.1.py Coverage Results" MODIFIED="1538427113634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_fuzzy_test_test_fuzzy_merge_spotify_lastfm_first100.coverage" NAME="pytest for fuzzy_test.test_fuzzy_merge_spotify_lastfm_first100 Coverage Results" MODIFIED="1539312305866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$6_6_py.coverage" NAME="6.6.py Coverage Results" MODIFIED="1538427244144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$billboard.coverage" NAME="billboard Coverage Results" MODIFIED="1539285317078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe/music1030" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_billboard_test_test_clean_full.coverage" NAME="pytest for billboard_test.test_clean_full Coverage Results" MODIFIED="1539282465477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_fuzzy_test_py.coverage" NAME="pytest in fuzzy_test.py Coverage Results" MODIFIED="1539310598738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$queue_from_stacks.coverage" NAME="queue_from_stacks Coverage Results" MODIFIED="1539974811340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_main_test_test_handle_billboard.coverage" NAME="pytest for main_test.test_handle_billboard Coverage Results" MODIFIED="1539230181039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_spotify_test_test_spotify_yijie.coverage" NAME="pytest for spotify_test.test_spotify_yijie Coverage Results" MODIFIED="1539288356869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_12_py.coverage" NAME="pytest in 6.12.py Coverage Results" MODIFIED="1538427285297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$main.coverage" NAME="main Coverage Results" MODIFIED="1539310543515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_13_py.coverage" NAME="pytest in 6.13.py Coverage Results" MODIFIED="1538427396331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$7_1_sorted_lists_merge.coverage" NAME="7.1-sorted_lists_merge Coverage Results" MODIFIED="1539625715813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_spotify_test_test_clean_ex.coverage" NAME="pytest for spotify_test.test_clean_ex Coverage Results" MODIFIED="1539310585140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_6_py.coverage" NAME="pytest in 6.6.py Coverage Results" MODIFIED="1538427197622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_fuzzy_test_test_jaccard.coverage" NAME="pytest for fuzzy_test.test_jaccard Coverage Results" MODIFIED="1539218142496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1539459641635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_billboard_test_test_claen_yijie.coverage" NAME="pytest for billboard_test.test_claen_yijie Coverage Results" MODIFIED="1539282695809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$is_list_cyclic.coverage" NAME="is_list_cyclic Coverage Results" MODIFIED="1539743007294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$int_as_list_add__1_.coverage" NAME="int_as_list_add (1) Coverage Results" MODIFIED="1539744037678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$spotify.coverage" NAME="spotify Coverage Results" MODIFIED="1539279526868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe/music1030" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$reverse_sublist__1_.coverage" NAME="reverse_sublist (1) Coverage Results" MODIFIED="1539627923895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter 7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$sorted_lists_merge__1_.coverage" NAME="sorted_lists_merge (1) Coverage Results" MODIFIED="1539626106994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_6_10_py.coverage" NAME="pytest in 6.10.py Coverage Results" MODIFIED="1538427258212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/Homework_due_1005" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$sunset_view.coverage" NAME="sunset_view Coverage Results" MODIFIED="1539917203918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_billboard_test_test_clean_partial.coverage" NAME="pytest for billboard_test.test_clean_partial Coverage Results" MODIFIED="1539126884958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_fuzzy_test_test_fuzzy_merge.coverage" NAME="pytest for fuzzy_test.test_fuzzy_merge Coverage Results" MODIFIED="1539223656992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_spotify_test_py.coverage" NAME="pytest in spotify_test.py Coverage Results" MODIFIED="1539310592267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$reverse_sublist.coverage" NAME="reverse_sublist Coverage Results" MODIFIED="1539745132997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$fuzzy.coverage" NAME="fuzzy Coverage Results" MODIFIED="1539223298303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe/music1030" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_billboard_test_test_prune_full.coverage" NAME="pytest for billboard_test.test_prune_full Coverage Results" MODIFIED="1539140463833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$sorted_lists_merge__2_.coverage" NAME="sorted_lists_merge (2) Coverage Results" MODIFIED="1539625955475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/hw3" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$sorted_lists_merge.coverage" NAME="sorted_lists_merge Coverage Results" MODIFIED="1539744752422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$f18_data1030_YIJIE1220.coverage" NAME="f18-data1030-YIJIE1220 Coverage Results" MODIFIED="1538071313891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$timed_executor.coverage" NAME="timed_executor Coverage Results" MODIFIED="1539628957831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/test_framework" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_billboard_test_test_prune_dummy.coverage" NAME="pytest for billboard_test.test_prune_dummy Coverage Results" MODIFIED="1539285322401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$do_lists_overlap.coverage" NAME="do_lists_overlap Coverage Results" MODIFIED="1539631957644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_main_test_test_handle_spotify.coverage" NAME="pytest for main_test.test_handle_spotify Coverage Results" MODIFIED="1539302711431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_for_fuzzy_test_test_fuzzy_merge_string_index.coverage" NAME="pytest for fuzzy_test.test_fuzzy_merge_string_index Coverage Results" MODIFIED="1539225044763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$int_as_list_add.coverage" NAME="int_as_list_add Coverage Results" MODIFIED="1539661329108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$do_terminated_lists_overlap.coverage" NAME="do_terminated_lists_overlap Coverage Results" MODIFIED="1539743548361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$tree_level_order.coverage" NAME="tree_level_order Coverage Results" MODIFIED="1539968945268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$list_node.coverage" NAME="list_node Coverage Results" MODIFIED="1539627249242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1539573506244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3-epi" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$pytest_in_billboard_test_py.coverage" NAME="pytest in billboard_test.py Coverage Results" MODIFIED="1539310578390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw2-swe" />
+    <SUITE FILE_PATH="coverage/f18_data1030_YIJIE1220$is_list_palindromic.coverage" NAME="is_list_palindromic Coverage Results" MODIFIED="1539745382874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2064122532">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="19" />
+          <entry key="ipynb" value="16" />
+          <entry key="json" value="2" />
+          <entry key="md" value="3" />
+          <entry key="py" value="117" />
+          <entry key="tsv" value="4" />
+          <entry key="txt" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="19" />
+          <entry key="IPNB" value="16" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="117" />
+          <entry key="TSV" value="4" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="md" value="66" />
+          <entry key="py" value="16057" />
+          <entry key="txt" value="600" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="66" />
+          <entry key="PLAIN_TEXT" value="601" />
+          <entry key="Python" value="16056" />
+          <entry key="RegExp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.create.new" value="2" />
+          <entry key="git.branch.rename" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jeremi</find>
+      <find>the trees get wheeled away</find>
+      <find>trees get wheeled away</find>
+      <find>handle_spotify</find>
+      <find>true blue</find>
+      <find>main.py</find>
+      <find>sunmonx</find>
+      <find>sheeran</find>
+      <find>skrillex</find>
+      <find>r. city</find>
+      <find>daya</find>
+      <find>luke bryan</find>
+      <find>billy currington</find>
+      <find>d.r.a.m.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="nothing" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/epi/Homework_due_1005/6.6.py" />
+        <option value="$PROJECT_DIR$/epi/Homework_due_1005/6.10.py" />
+        <option value="$PROJECT_DIR$/epi/Homework_due_1005/6.12.py" />
+        <option value="$PROJECT_DIR$/epi/Homework_due_1005/6.13.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/conftest.py" />
+        <option value="$PROJECT_DIR$/L02 Python/gap.py" />
+        <option value="$PROJECT_DIR$/L03/new_power.py" />
+        <option value="$PROJECT_DIR$/L03/new_python2.py" />
+        <option value="$PROJECT_DIR$/L02 Python/repeat_element.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/requirements.txt" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/spotify_test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/billboard.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/billboard_test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/README.md" />
+        <option value="$PROJECT_DIR$/hw2-swe/main_test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/spotify.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/main.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/fuzzy_test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/test.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.1.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.2.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/test.py" />
+        <option value="$PROJECT_DIR$/hw2-swe/music1030/fuzzy.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.3.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.11.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.12.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/sorted_lists_merge.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/sorted_lists_merge.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/reverse_sublist.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/7.4.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/is_list_cyclic.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/do_terminated_lists_overlap.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/do_lists_overlap.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/is_list_palindromic.py" />
+        <option value="$PROJECT_DIR$/hw3-epi/test_framework/test.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/int_as_list_add.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/int_as_list_add.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/reverse_sublist2.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/do_terminated_lists_overlap.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/reverse_sublist.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/sorted_lists_merge.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/is_list_palindromic.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/is_list_cyclic.py" />
+        <option value="$PROJECT_DIR$/Untitled1.ipynb" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/sunset_view.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/binary_tree_with_parent_prototype.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/tree_level_order.py" />
+        <option value="$PROJECT_DIR$/epi/epi_judge_python/queue_from_stacks.py" />
+        <option value="$PROJECT_DIR$/project 1/test.py" />
+        <option value="$PROJECT_DIR$/project 1/stopword.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="26" />
+    <option name="width" value="1365" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="f18-data1030-YIJIE1220" type="b2602c69:ProjectViewProjectNode" />
+              <item name="f18-data1030-YIJIE1220" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+      <recent name="$PROJECT_DIR$/epi/epi_judge_python/Chapter 7" />
+      <recent name="$PROJECT_DIR$/hw3-epi" />
+      <recent name="$PROJECT_DIR$/epi/epi_judge_python/hw3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/epi/epi_judge_python" />
+      <recent name="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+      <recent name="$PROJECT_DIR$/lab6-eda" />
+      <recent name="$PROJECT_DIR$/lab6-eda/.ipynb_checkpoints" />
+      <recent name="$PROJECT_DIR$/epi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="f18-data1030-YIJIE1220" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.10.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.12.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.13.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.1.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.2.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.6.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/Homework_due_1005/6.6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="is_list_palindromic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/is_list_palindromic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queue_from_stacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epi/epi_judge_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/epi_judge_python/queue_from_stacks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_sublist" type="PythonConfigurationType" factoryName="Python">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/epi_judge_python/Chapter7/reverse_sublist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sunset_view" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epi/epi_judge_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/epi_judge_python/sunset_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project 1/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree_level_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f18-data1030-YIJIE1220" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/epi/epi_judge_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/epi/epi_judge_python/tree_level_order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jupyter Notebook.f18-data1030-YIJIE1220" />
+      <item itemvalue="Python.6.13.py" />
+      <item itemvalue="Python.6.12.py" />
+      <item itemvalue="Python.6.10.py" />
+      <item itemvalue="Python.6.6.py" />
+      <item itemvalue="Python.6.2.py" />
+      <item itemvalue="Python.6.1.py" />
+      <item itemvalue="Python.reverse_sublist" />
+      <item itemvalue="Python.is_list_palindromic" />
+      <item itemvalue="Python.sunset_view" />
+      <item itemvalue="Python.tree_level_order" />
+      <item itemvalue="Python.queue_from_stacks" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.queue_from_stacks" />
+        <item itemvalue="Python.tree_level_order" />
+        <item itemvalue="Python.sunset_view" />
+        <item itemvalue="Python.is_list_palindromic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3633bb22-29a4-45ce-a44c-d4fd980cca01" name="Default Changelist" comment="" />
+      <created>1538069244863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538069244863</updated>
+    </task>
+    <task id="LOCAL-00001" summary="S0 all tests passed">
+      <created>1538069716086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538069716086</updated>
+    </task>
+    <task id="LOCAL-00002" summary="S0 all tests passed">
+      <created>1538069737122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538069737122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I didn't do any change. Automatically commit.">
+      <created>1538281061672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538281061672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Yijie">
+      <created>1538281266008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538281266009</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Yijie">
+      <created>1538416168516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538416168517</updated>
+    </task>
+    <task id="LOCAL-00006" summary="S0">
+      <created>1538421180790</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538421180790</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Yijie">
+      <created>1538426595820</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538426595820</updated>
+    </task>
+    <task id="LOCAL-00008" summary="S2">
+      <created>1538428245319</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538428245319</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Yijie">
+      <created>1538428260210</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538428260210</updated>
+    </task>
+    <task id="LOCAL-00010" summary="S2">
+      <created>1538428495425</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538428495425</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reformed">
+      <created>1538498147657</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538498147660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="reformed">
+      <created>1538498479975</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538498479975</updated>
+    </task>
+    <task id="LOCAL-00013" summary="reformed">
+      <created>1538498946522</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538498946522</updated>
+    </task>
+    <task id="LOCAL-00014" summary="reformed">
+      <created>1538664215447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538664215448</updated>
+    </task>
+    <task id="LOCAL-00015" summary="reformed">
+      <created>1538772589903</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538772589903</updated>
+    </task>
+    <task id="LOCAL-00016" summary="reformed">
+      <created>1538773672165</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538773672166</updated>
+    </task>
+    <task id="LOCAL-00017" summary="reformed">
+      <created>1538773895437</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1538773895437</updated>
+    </task>
+    <task id="LOCAL-00018" summary="reformed">
+      <created>1538774064656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538774064656</updated>
+    </task>
+    <task id="LOCAL-00019" summary="S0，pass the test">
+      <created>1539230559815</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1539230559815</updated>
+    </task>
+    <task id="LOCAL-00020" summary="S0,pass the test">
+      <created>1539289496314</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1539289496315</updated>
+    </task>
+    <task id="LOCAL-00021" summary="reformed code">
+      <created>1539289788054</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1539289788054</updated>
+    </task>
+    <task id="LOCAL-00022" summary="reformed code">
+      <created>1539290122289</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539290122289</updated>
+    </task>
+    <task id="LOCAL-00023" summary="reformed code">
+      <created>1539290326044</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1539290326044</updated>
+    </task>
+    <task id="LOCAL-00024" summary="reformed code">
+      <created>1539290559724</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1539290559725</updated>
+    </task>
+    <task id="LOCAL-00025" summary="reform code">
+      <created>1539290630267</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1539290630267</updated>
+    </task>
+    <task id="LOCAL-00026" summary="reform code">
+      <created>1539290929076</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1539290929076</updated>
+    </task>
+    <task id="LOCAL-00027" summary="reform code">
+      <created>1539291138951</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291138951</updated>
+    </task>
+    <task id="LOCAL-00028" summary="reform code">
+      <created>1539291213202</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291213202</updated>
+    </task>
+    <task id="LOCAL-00029" summary="reform code">
+      <created>1539291363795</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291363795</updated>
+    </task>
+    <task id="LOCAL-00030" summary="reform code">
+      <created>1539291420269</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291420269</updated>
+    </task>
+    <task id="LOCAL-00031" summary="reform code">
+      <created>1539291472678</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291472678</updated>
+    </task>
+    <task id="LOCAL-00032" summary="reform code">
+      <created>1539291859460</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291859460</updated>
+    </task>
+    <task id="LOCAL-00033" summary="reform code">
+      <created>1539292290637</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1539292290637</updated>
+    </task>
+    <task id="LOCAL-00034" summary="reform code">
+      <created>1539314181840</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1539314181845</updated>
+    </task>
+    <task id="LOCAL-00035" summary="S0，done by myself. 6/6 problems passed all the tests. &#10;while 7.3,7.4 runs more than one hour.&#10;I will figure out the big O problem in S2.">
+      <created>1539740945512</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1539740945513</updated>
+    </task>
+    <task id="LOCAL-00036" summary="S2, pass all the tests with the highest speed.">
+      <created>1539745457888</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1539745457888</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Move the file, no change.">
+      <created>1539874008656</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1539874008657</updated>
+    </task>
+    <task id="LOCAL-00038" summary="S0, didn't pass the test.">
+      <created>1539972261212</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1539972261212</updated>
+    </task>
+    <task id="LOCAL-00039" summary="stopwrods done">
+      <created>1540071676866</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1540071676866</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_fuzzy_test_test_fuzzy_yijie - 2018.10.11 at 16h 23m 17s.xml">
+      <configuration name="pytest for fuzzy_test.test_fuzzy_yijie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_spotify_test_test_clean_ex - 2018.10.11 at 19h 01m 41s.xml">
+      <configuration name="pytest for spotify_test.test_clean_ex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_main_test_test_handle_spotify - 2018.10.11 at 19h 57m 00s.xml">
+      <configuration name="pytest for main_test.test_handle_spotify" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_spotify_test_test_clean_ex - 2018.10.11 at 19h 57m 23s.xml">
+      <configuration name="pytest for spotify_test.test_clean_ex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_main_test_test_handle_spotify - 2018.10.11 at 20h 05m 14s.xml">
+      <configuration name="pytest for main_test.test_handle_spotify" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_billboard_test_py - 2018.10.11 at 22h 16m 22s.xml">
+      <configuration name="pytest in billboard_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_spotify_test_test_clean_ex - 2018.10.11 at 22h 16m 28s.xml">
+      <configuration name="pytest for spotify_test.test_clean_ex" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_spotify_test_py - 2018.10.11 at 22h 16m 35s.xml">
+      <configuration name="pytest in spotify_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_fuzzy_test_py - 2018.10.11 at 22h 44m 23s.xml">
+      <configuration name="pytest in fuzzy_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_fuzzy_test_test_fuzzy_merge_spotify_lastfm_first100 - 2018.10.11 at 22h 54m 45s.xml">
+      <configuration name="pytest for fuzzy_test.test_fuzzy_merge_spotify_lastfm_first100" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="26" width="1365" height="833" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18442933" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32928476" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4973545" weight="0.22537112" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3994602" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4988662" weight="0.22672065" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4973545" visible="true" weight="0.31443995" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32793522" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5026455" side_tool="true" visible="true" weight="0.31443995" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17970565" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32928476" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4980635" visible="true" weight="0.46558705" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3994602" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49928468" weight="0.22672065" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49785408" weight="0.31443995" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32793522" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5019365" side_tool="true" weight="0.46558705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="S0 all tests passed" />
+    <MESSAGE value="I didn't do any change. Automatically commit." />
+    <MESSAGE value="S0" />
+    <MESSAGE value="Yijie" />
+    <MESSAGE value="S2" />
+    <MESSAGE value="reformed" />
+    <MESSAGE value="S0，pass the test" />
+    <MESSAGE value="S0,pass the test" />
+    <MESSAGE value="reformed code" />
+    <MESSAGE value="reform code" />
+    <MESSAGE value="S0，done by myself. 6/6 problems passed all the tests. &#10;while 7.3,7.4 runs more than one hour.&#10;I will figure out the big O problem in S2." />
+    <MESSAGE value="S2, pass all the tests with the highest speed." />
+    <MESSAGE value="Move the file, no change." />
+    <MESSAGE value="S0, didn't pass the test." />
+    <MESSAGE value="stopwrods done" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopwrods done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/reverse_words.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/list_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3-epi/7.3.py" />
+    <entry file="file://$PROJECT_DIR$/hw3-epi/7.4.py" />
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/test_framework/timed_executor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3-epi/7.11.py" />
+    <entry file="file://$PROJECT_DIR$/epi/test_data/is_list_cyclic.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/main_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/data/hot100.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" selection-start-line="58" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/music1030/spotify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/data/spotify.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1309" column="55" selection-start-line="1309" selection-start-column="55" selection-end-line="1309" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/data/lastfm.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="767" column="601" selection-start-line="767" selection-start-column="601" selection-end-line="767" selection-end-column="601" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/music1030/billboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/music1030/spotify_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="132" column="48" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/music1030/billboard_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2-swe/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/sorted_lists_merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/adding_credits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/test_data/do_lists_overlap.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/do_lists_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3-epi/7.12.py" />
+    <entry file="file://$PROJECT_DIR$/hw3-epi/test_framework/test.py" />
+    <entry file="file://$PROJECT_DIR$/epi/test_data/int_as_list_add.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/is_list_cyclic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/int_as_list_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/is_list_palindromic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/do_terminated_lists_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/reverse_sublist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW1 NYFP/version1-Copy1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Untitled1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/buy_and_sell_stock.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10-ml/lab10a.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/reverse_sublist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/sorted_lists_merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/is_list_palindromic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/int_as_list_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/is_list_cyclic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/Chapter7/do_terminated_lists_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/sunset_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/binary_tree_node.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/binary_tree_with_parent_prototype.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/tree_inorder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/tree_level_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/circular_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/tree_postorder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project 1/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project 1/stopword.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epi/epi_judge_python/queue_from_stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
