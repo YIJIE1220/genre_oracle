@@ -1,5 +1,5 @@
 # genre_oracle
-Out blog:
+Our blog:
 https://perspicaciouserudi.wixsite.com/genreoracle/blog
 
 You can contact with us by one of following address for detailed data and model:
